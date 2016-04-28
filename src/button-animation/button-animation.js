@@ -48,7 +48,7 @@ var ButtonAnimation = (function () {
     ], ButtonAnimation.prototype, "animationcomplete", void 0);
     ButtonAnimation = __decorate([
         core_1.Directive({
-            selector: '[ripple-animation]',
+            selector: '[button-animation]',
             providers: [],
             properties: ['rcolor'],
             host: {
