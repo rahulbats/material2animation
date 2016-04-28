@@ -1,0 +1,27 @@
+{
+  "name": "material2animation",
+  "version": "1.0.0",
+  "description": "A angular 2 directive library to create ripple effects to material components",
+  "main": "index.js",
+  "scripts": {
+    "prepublish": "tsc"
+  },
+  "keywords": [
+    "angular2",
+    "material"
+  ],
+  "author": "Rahul Bhattacharya <rahulbats@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@angular2-material/button": "^2.0.0-alpha.3",
+    "@angular2-material/core": "^2.0.0-alpha.3",
+    "angular2": "^2.0.0-beta.16",
+    "es6-shim": "^0.35.0",
+    "reflect-metadata": "^0.1.2",
+    "rxjs": "^5.0.0-beta.2",
+    "zone.js": "^0.6.12"
+  },
+  "devDependencies": {
+    "typescript": "^1.8.10"
+  }
+}
