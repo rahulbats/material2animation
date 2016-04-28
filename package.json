@@ -1,14 +1,21 @@
 {
   "name": "material2animation",
-  "version": "1.0.0",
-  "description": "A angular 2 directive library to create ripple effects to material components",
+  "version": "1.0.5",
+  "description": "A angular 2 directive library to create ripple effects to material components.",
   "main": "index.js",
   "scripts": {
     "prepublish": "tsc"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rahulbats/material2animation"
+  },
+  "homepage": "https://github.com/rahulbats/material2animation",
   "keywords": [
     "angular2",
-    "material"
+    "material",
+    "ripple",
+    "animation"
   ],
   "author": "Rahul Bhattacharya <rahulbats@gmail.com>",
   "license": "ISC",
