@@ -3,7 +3,7 @@ import {AnimationBuilder} from 'angular2/src/animate/animation_builder';
 
 
 @Directive({
-  selector: '[ripple-animation]',
+  selector: '[button-animation]',
   providers: [],
   properties:['rcolor'],
   host: {
